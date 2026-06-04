@@ -99,9 +99,11 @@ from e-commerce stores to local Windows AI agents, all crafted with precision.
 
 <div align="center">
 
-![Amadou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amadou11doumbouya10-lgtm&show_icons=true&theme=vue&hide_border=true&bg_color=f0fdf4&title_color=1B4332&icon_color=2D6A4F&text_color=333333)
+![Amadou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amadou11doumbouya10-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amadou11doumbouya10-lgtm&layout=compact&theme=vue&hide_border=true&bg_color=f0fdf4&title_color=1B4332&text_color=333333)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amadou11doumbouya10-lgtm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=amadou11doumbouya10-lgtm&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -122,7 +124,8 @@ from e-commerce stores to local Windows AI agents, all crafted with precision.
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.amah.officiel@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1B4332?style=for-the-badge&logo=githubpages&logoColor=white)](https://amadou11doumbouya10-lgtm.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1B4332?style=for-the-badge&logo=githubpages&logoColor=white)](https://amadou11doumbouya10-lgtm.github.io/-theamah-streaming/portfolio.html)
+[![The Amah Streaming](https://img.shields.io/badge/The_Amah_Streaming-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://amadou11doumbouya10-lgtm.github.io/-theamah-streaming/)
 
 </div>
 
