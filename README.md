@@ -89,7 +89,7 @@ from e-commerce stores to local Windows AI agents, all crafted with precision.
 | 🤖 **The Amah Chatbot** | AI persona chatbot deployed on GitHub Pages | Anthropic API, HTML/JS |
 | 🛍️ **Vertex Shop** | Luxury skincare e-commerce boutique | Shopify, Liquid |
 | 📦 **Transport Agency Platform** | Shipping management app (Germany → Africa) | Next.js, Prisma, PostgreSQL |
-| 🎬 **Theamah Streaming** | French-language VOD platform with TMDB integration | Next.js, TMDB API |
+| 🎬 **Theamah+** | Netflix-style VOD app — 600K+ titles, PWA, no backend, service workers, multi-source embed, SRT/VTT subtitles, admin mode | HTML5, JS ES6+, TMDB API, PWA |
 | 🔐 **Cyber Content Generator** | Auto-generates French cybersec scripts for TikTok/Instagram | Python, Anthropic API |
 | 🎫 **Ticketing Platform** | Online ticketing for concerts, sports & transport | Next.js, Stripe, Prisma |
 
