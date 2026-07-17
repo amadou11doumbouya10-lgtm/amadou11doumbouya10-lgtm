@@ -111,7 +111,7 @@ from e-commerce stores to local Windows AI agents, all crafted with precision.
 
 ## 🌍 What I'm Building
 
-- 🧠 Scaling **Amah Agent** — assistant IA local Windows, 65 outils opérationnels, livrable .exe client
+- 🧠 Scaling **Amah Agent** — assistant IA local Windows, 99 outils opérationnels, livrable .exe client
 - 🔭 Developing **GnakryTech** — tech tools & content for francophone West Africa
 - 🛡️ Deepening expertise in **ethical pentesting & OSINT**
 - 📱 Growing **The Amah** — an AI-powered lifestyle & tech persona on TikTok/Instagram
